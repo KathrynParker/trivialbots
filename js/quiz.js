@@ -4,7 +4,7 @@ $(function(){
 	    let storedUsernameJSON = localStorage.getItem('Username');  
 	    let username = JSON.parse(storedUsernameJSON);
 
-	    $('.display-4').html("Let's try! " +  username);
+	    $('.display-4').html("Hey, " +  username + "! Let's Play");
   	});
 	// Get question from trivia API
 	// Then render the questions
@@ -60,5 +60,3 @@ $(function(){
  		});	
  	}
  }
-
- 	

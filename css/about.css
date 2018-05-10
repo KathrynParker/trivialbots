@@ -1,16 +1,22 @@
 body {
-    background-color: #000406;
-    background-image: url('../img/trivialBOTS_questionarms.png');
+    background-color: #00212b;
+    background-image: url('../img/trivialBOTS_bkgd_arms.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-.logoAbout {
-    width: 200px;
-    margin-left: 30%;
+.logoabout {
+    margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
     align-content: center;
+}
+.logoabout img {
+    width: 200px;
+}
+.container h3 {
+    margin-top: 0px;
+    margin-bottom: 80px;
 }
 
 .bg-dark {
@@ -18,7 +24,9 @@ body {
 }
 
 .aboutPeeps {
-    margin: 0 auto;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 16px;
     border-radius: 10px;
     display: flex;
@@ -29,7 +37,7 @@ body {
   .card {
     width: 18rem;
     border: 1px solid #000;
-    box-shadow: 4px 4px 7px #002d3a;
+    box-shadow: 6px 6px 120px #000;
   }
   
   .card-img-top {
@@ -53,9 +61,3 @@ body {
       bottom: 20px;
       left: 35%;
   } 
-
-
-
-
-
-
