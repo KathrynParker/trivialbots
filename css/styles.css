@@ -1,6 +1,6 @@
 body {
-    background-color: #000406;
-    background-image: url('../img/trivialBOTS_questionarms.png');
+    background-color: #00212b;
+    background-image: url('../img/trivialBOTS_bkgd_arms.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -25,11 +25,11 @@ body {
 }
 
 .questionSpace {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     margin-top: 30px;
     color: #fff;
     height: 70px;
-    width: 420px;
+    width: 700px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -41,6 +41,16 @@ body {
     margin: 8px;
     border: 2px solid #FF9A35;
     text-align: center;
+    order: -1
+}
+.wrongX img {
+    width: 226px;
+    height: 226px;
+    display:block;
+    margin: 8px;
+    border: 2px solid red;
+    text-align: center;
+    order: -2
 }
 
 .row {
@@ -80,9 +90,3 @@ h5 {
     background-color: #007474;
     border-color: #007474;
 }
-
-
-
-
-
-
