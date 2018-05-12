@@ -15,10 +15,10 @@ TrivialBOTS is single player trivia game. When you have answered a question succ
 
 ## APIs Used
 
-* 
+* To generate a robot when a correct answer is given... https://robohash.org
+* To place in the background of the robot images (there's a new image each day)... https://api.nasa.gov/api.html#authentication
+* To generate trivia questions...https://opentdb.com/
 
+### ScreenShots
 
-### Configuration
-
-Settings and controls 
 
