@@ -20,7 +20,7 @@ body {
 }
 
 .bg-dark {
-    background-color: #002d3a!important;
+    background-color: #00212b!important;
 }
 
 .aboutPeeps {
@@ -59,5 +59,5 @@ body {
   .push-bottom {
       position: absolute;
       bottom: 20px;
-      left: 35%;
+        left: 27%;
   } 
