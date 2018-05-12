@@ -6,11 +6,11 @@ TrivialBOTS is single player trivia game. When you have answered a question succ
 
 ## What's new in version 0.5?
 
-* Everything
+* Everything- It's brand new!
 
 ## Install
 
-* None needed: go to '#'
+* None needed: go to 'https://affectionate-carson-95ee95.netlify.com/'
 
 
 ## APIs Used
