@@ -5,7 +5,7 @@
 Contributors: Hyun Joo Nam, Alexandra Perrotta and Kathryn Parker
 
 
-TrivialBOTS is single player trivia game. When you have answered a question successfully, you will granted a random robot. How many can you collect?
+TrivialBOTS is single player trivia game. When you have answered a question successfully, you will generate a random robot. How many can you collect?
 
 ## What's new in version 1.0?
 
